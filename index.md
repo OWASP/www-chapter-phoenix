@@ -2,12 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Phoenix
-tags: example-tag
+tags: 
 level: 0
 meetup-group:
 region: North America
 
-auto-migrated: 1
 
 ---
 

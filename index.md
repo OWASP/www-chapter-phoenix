@@ -6,6 +6,7 @@ tags:
 level: 0
 meetup-group:
 region: North America
+country: USA
 
 
 ---

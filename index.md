@@ -12,7 +12,7 @@ country: USA
 ---
 
 ## Welcome
-Welcome to the Phoenix Chapter!  We meet four times a year on the first Tuesday of the month at 8:30pm, every three months at Heatsync Labs.  See our <a href="https://www.meetup.com/owasp-phoenix-chapter/">Meetup Group</a> for the next meeting.
+Welcome to the Phoenix Chapter!  We meet four times a year.  See our next meeting below!
 
 ## Upcoming Meetings 
 
@@ -20,16 +20,16 @@ Welcome to the Phoenix Chapter!  We meet four times a year on the first Tuesday 
 
 ## Meetup Group for Meetings
 Be sure to register for our next meeting!<br>
-https://www.meetup.com/owasp-phoenix-chapter/<br>
+<a href="https://www.meetup.com/owasp-phoenix-chapter/">https://www.meetup.com/owasp-phoenix-chapter/</a><br>
 
 ## Meeting Location
 HeatSync Labs<br>
 108 W Main St, Mesa, AZ 85201<br>
-https://www.heatsynclabs.org/<br>
+<a href="https://www.heatsynclabs.org/">https://www.heatsynclabs.org/</a><br>
 
 ## Free Parking
 1 N Macdonald St, Mesa, AZ 85201<br>
-https://downtownmesa.com/parking/green-lot<br>
+<a href="https://downtownmesa.com/parking/green-lot">https://downtownmesa.com/parking/green-lot</a><br>
 Note that the parking lot is across the street from HeatSync Labs<br>
 
 ## Participation

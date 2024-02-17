@@ -18,16 +18,18 @@ Welcome to the Phoenix Chapter!  We meet four times a year.  See our next meetin
 
 {% include chapter_events.html group=page.meetup-group %}
 
-## Meetup Group for Meetings
+## Meeting Info
+
+### Meetup Group
 Be sure to register for our next meeting!<br>
 <a href="https://www.meetup.com/owasp-phoenix-chapter/">https://www.meetup.com/owasp-phoenix-chapter/</a><br>
 
-## Meeting Location
+### Meeting Location
 HeatSync Labs<br>
 108 W Main St, Mesa, AZ 85201<br>
 <a href="https://www.heatsynclabs.org/">https://www.heatsynclabs.org/</a><br>
 
-## Free Parking
+### Meeting Free Parking
 1 N Macdonald St, Mesa, AZ 85201<br>
 <a href="https://downtownmesa.com/parking/green-lot">https://downtownmesa.com/parking/green-lot</a><br>
 Note that the parking lot is across the street from HeatSync Labs<br>

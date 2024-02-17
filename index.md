@@ -36,6 +36,10 @@ We schedule our meetings on Meetup Group
 
 {% include chapter_events.html group=page.meetup-group %}
 
+## Meetup Group for Meetings
+Be sure to register for our next meeting!<br>
+https://www.meetup.com/owasp-phoenix-chapter/<br>
+
 ## Meeting Location
 HeatSync Labs<br>
 108 W Main St, Mesa, AZ 85201<br>

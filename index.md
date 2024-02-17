@@ -37,9 +37,14 @@ We schedule our meetings on Meetup Group
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Meeting Location
-HeatSync Labs
-108 W Main St, Mesa, AZ 85201
-https://www.heatsynclabs.org/
+HeatSync Labs<br>
+108 W Main St, Mesa, AZ 85201<br>
+https://www.heatsynclabs.org/<br>
+
+## Free Parking
+1 N Macdonald St, Mesa, AZ 85201<br>
+https://downtownmesa.com/parking/green-lot<br>
+Note that the parking lot is across the street from HeatSync Labs<br>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

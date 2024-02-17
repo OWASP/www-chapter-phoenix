@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Phoenix
 tags: 
 level: 0
-meetup-group: OWASP-Phoenix-Chapter
+meetup-group: OWASP Phoenix Chapter
 region: North America
 country: USA
 

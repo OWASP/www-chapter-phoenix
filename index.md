@@ -12,7 +12,7 @@ country: USA
 ---
 
 ## Welcome
-Welcome to the Phoenix Chapter!  We meet four times a year.  See our next meeting below!
+Welcome to the Phoenix Chapter!  We meet the first Tuesday of every month.  See our next meeting below!
 
 ## Upcoming Meetings 
 
@@ -32,7 +32,7 @@ HeatSync Labs<br>
 ### Meeting Free Parking
 1 N Macdonald St, Mesa, AZ 85201<br>
 <a href="https://downtownmesa.com/parking/green-lot">https://downtownmesa.com/parking/green-lot</a><br>
-Note that the parking lot is across the street from HeatSync Labs<br>
+Note that the parking lot is across the street from HeatSync Labs and there is street parking as well.<br>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

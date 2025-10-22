@@ -1,0 +1,31 @@
+community:
+  - name: chapter-phoenix
+    platform: slack
+    url: https://owasp.slack.com/archives/C07L2SKPK0U
+leaders:
+  - name: Bil Corry
+    email: bil.corry@owasp.org
+    github: bilcorry
+  - name: Hayden Corry
+    email: hayden.corry@owasp.org
+    github: HaydenCorry
+  - name: Maria Brown
+    email: maria.brown@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Arizona
+  city: Phoenix
+  latitude: 33.4484367
+  longitude: -112.074141
+meetup_group: OWASP-Phoenix-Chapter
+name: OWASP Phoenix
+repositories:
+  - name: www-chapter-phoenix
+    url: https://github.com/OWASP/www-chapter-phoenix
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-phoenix

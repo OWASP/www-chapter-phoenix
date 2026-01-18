@@ -36,6 +36,7 @@ Join our the OWASP Phoenix Chapter Slack Group:
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
 **Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-february-meeting-tickets-1980603384038?aff=oddtdtcreator">Eventbrite</a> <br>
 
+<br>
 
 ### March 2026 Meeting
 ---
@@ -46,6 +47,8 @@ Join our the OWASP Phoenix Chapter Slack Group:
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
 **Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-march-meeting-tickets-1980820428223?aff=oddtdtcreator">Eventbrite</a> <br>
+
+<br>
 
 ### April 2026 Meeting 
 ---

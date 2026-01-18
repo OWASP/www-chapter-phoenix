@@ -25,6 +25,7 @@ Join our the OWASP Phoenix Chapter Slack Group:
 
 <a href="https://www.eventbrite.com/cc/owasp-phoenix-chapter-4808446">OWASP Phoenix Chapter Eventbrite Page</a>
 
+<br>
 
 ### February 2026 Meeting 
 ---

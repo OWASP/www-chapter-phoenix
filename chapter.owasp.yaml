@@ -11,6 +11,8 @@ leaders:
     github: HaydenCorry
   - name: Maria Brown
     email: maria.brown@owasp.org
+  - name: Chad Butler
+    email: chad.butler@owasp.org
 location:
   country: USA
   country_code: US

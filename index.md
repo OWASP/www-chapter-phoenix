@@ -31,7 +31,7 @@ Join our the OWASP Phoenix Chapter Slack Group:
 ---
 #### Agentic AI Design Patterns and Their Security Implications (30 min)
 
-**Presenter**: <a href="https://www.linkedin.com/in/kishan-nagendra-profile/">Kishan Nagendra/a> <br>
+**Presenter**: <a href="https://www.linkedin.com/in/kishan-nagendra-profile/">Kishan Nagendra</a> <br>
 **When**: Tues, May 5 from 7:30 PM to 9:00 PM <br>
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>

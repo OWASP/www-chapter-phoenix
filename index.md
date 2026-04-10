@@ -27,39 +27,39 @@ Join our the OWASP Phoenix Chapter Slack Group:
 
 <br>
 
-### February 2026 Meeting 
+### May 2026 Meeting 
 ---
-#### Awakening Threat Models, VAST threat modeling inside code to power DevSecOps (45 min)
+#### Agentic AI Design Patterns and Their Security Implications (30 min)
 
-**Presenter**: <a href="https://www.linkedin.com/in/souryadipsengupta/">Souryadip Sengupta</a> <br>
-**When**: Tues, Feb 3 from 7:30 PM to 9:00 PM <br>
+**Presenter**: <a href="https://www.linkedin.com/in/kishan-nagendra-profile/">Kishan Nagendra/a> <br>
+**When**: Tues, May 5 from 7:30 PM to 9:00 PM <br>
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
-**Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-february-meeting-tickets-1980603384038?aff=oddtdtcreator">Eventbrite</a> <br>
+**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1983700743323?aff=oddtdtcreator">Eventbrite</a> <br>
 
 <br>
 
-### March 2026 Meeting
+### June 2026 Meeting
 ---
-#### Foundational Kubernetes Security - perimeter and deployment (30 min)
+#### Ham Radio: Insecure by Design
 
-**Presenter**: <a href="https://www.linkedin.com/in/wjenksgibbons/">W. Jenks Gibbons</a> <br>
-**When**: Tues, Mar 3 from 7:30 PM to 9:00 PM <br>
+**Presenter**: <a href="https://www.linkedin.com/in/vitaliykonyukhov/">Vitaliy Konyukhov</a> <br>
+**When**: Tues, June 2 from 7:30 PM to 9:00 PM <br>
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
-**Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-march-meeting-tickets-1980820428223?aff=oddtdtcreator">Eventbrite</a> <br>
+**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1983735757050?aff=oddtdtcreator">Eventbrite</a> <br>
 
 <br>
 
-### April 2026 Meeting 
+### August 2026 Meeting 
 ---
-#### AI: The Good, the Bad, and the Ugly (And Why Guardrails Matter)
+#### Why APIs Are Every Attacker's Favorite Target
 
-**Presenter**: <a href="https://www.linkedin.com/in/perkinsgary/">Gary Perkins </a> <br>
-**When**: Tues, April 7 from 7:30 PM to 9:00 PM <br>
+**Presenter**: <a href="https://www.linkedin.com/in/rdbarahona/">Dan Barahona</a> <br>
+**When**: Tues, August 4 from 7:30 PM to 9:00 PM <br>
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
-**Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-april-meeting-tickets-1980820508463?aff=oddtdtcreator">Eventbrite</a> <br>
+**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1987137568961?aff=oddtdtcreator">Eventbrite</a> <br>
 
 ## Meeting Info
 

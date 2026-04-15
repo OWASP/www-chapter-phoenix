@@ -51,6 +51,18 @@ Join our the OWASP Phoenix Chapter Slack Group:
 
 <br>
 
+### July 2026 Meeting
+---
+#### The Open Business
+
+**Presenter**: <a href="https://tea-tavern.com">Robin</a> <br>
+**When**: Tues, July 7 from 7:30 PM to 9:00 PM <br>
+**Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
+**Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
+**Event Details and Registration**: <a href="https://www.eventbrite.com/e/owasp-phoenix-chapter-july-meeting-tickets-1987532045852?aff=oddtdtcreator">Eventbrite</a> <br>
+
+<br>
+
 ### August 2026 Meeting 
 ---
 #### Why APIs Are Every Attacker's Favorite Target

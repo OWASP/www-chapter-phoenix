@@ -27,30 +27,6 @@ Join our the OWASP Phoenix Chapter Slack Group:
 
 <br>
 
-### May 2026 Meeting 
----
-#### Agentic AI Design Patterns and Their Security Implications (30 min)
-
-**Presenter**: <a href="https://www.linkedin.com/in/kishan-nagendra-profile/">Kishan Nagendra</a> <br>
-**When**: Tues, May 5 from 7:30 PM to 9:00 PM <br>
-**Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
-**Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
-**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1983700743323?aff=oddtdtcreator">Eventbrite</a> <br>
-
-<br>
-
-### June 2026 Meeting
----
-#### Ham Radio: Insecure by Design
-
-**Presenter**: <a href="https://www.linkedin.com/in/vitaliykonyukhov/">Vitaliy Konyukhov</a> <br>
-**When**: Tues, June 2 from 7:30 PM to 9:00 PM <br>
-**Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
-**Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
-**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1983735757050?aff=oddtdtcreator">Eventbrite</a> <br>
-
-<br>
-
 ### July 2026 Meeting
 ---
 #### The Open Business
@@ -72,6 +48,18 @@ Join our the OWASP Phoenix Chapter Slack Group:
 **Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
 **Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
 **Event Details and Registration**: <a href="https://www.eventbrite.com/e/1987137568961?aff=oddtdtcreator">Eventbrite</a> <br>
+
+### September 2026 Meeting 
+---
+#### Raiders of the Lost Architecture: Security Testing in Modern Applications
+
+**Presenter**: <a href="https://www.linkedin.com/in/kevintackett">Kevin Tackett</a> <br>
+**When**: Tues, Sept 1 from 7:30 PM to 9:00 PM <br>
+**Where**: <a href="https://www.heatsynclabs.org/">HeatSync Labs</a>, 108 W Main St, Mesa, AZ 85201 <br>
+**Parking**:  Free Parking in <a href="https://downtownmesa.com/parking/green-lot">Green lot</a> at 1 N Macdonald St, Mesa, AZ 85201 or parking structure across the street. <br>
+**Event Details and Registration**: <a href="https://www.eventbrite.com/e/1983700743323?aff=oddtdtcreator">Eventbrite</a> <br>
+
+<br>
 
 ## Meeting Info
 
